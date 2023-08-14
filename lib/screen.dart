@@ -927,7 +927,7 @@ class _MyScreenState extends State<MyScreen> {
                             ),
                           ],
                         ),
-                      ),
+                    ),
                       Padding(
                         padding: const EdgeInsets.only(top: 8.0, right: 50),
                         child: Row(
